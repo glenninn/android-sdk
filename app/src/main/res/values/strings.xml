@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Native Android WebRTC Reference App</string>
+    <string name="join_mtg">Join Meeting</string>
+    <string name="leave_mtg">Leave Meeting</string>
+</resources>
